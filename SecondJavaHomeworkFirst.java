@@ -5,6 +5,7 @@ import java.util.ArrayList;
     *author Viktor Shkuratov
     * date 16/08/2018
     * Java2 HomeWorkFirst
+    * GeekBrains link https://geekbrains.ru/users/3082903
  */
 public class SecondJavaHomeworkFirst {
 
